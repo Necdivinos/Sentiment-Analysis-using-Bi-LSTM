@@ -1,7 +1,7 @@
 # Core Streamlit and Data Processing
-streamlit==1.29.0
+numpy>=1.26.0,<2.0
 pandas==2.1.4
-numpy==1.24.3
+streamlit==1.29.0
 
 # Machine Learning and Deep Learning
 tensorflow==2.15.0
