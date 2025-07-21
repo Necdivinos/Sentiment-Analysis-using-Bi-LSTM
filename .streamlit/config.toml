@@ -1,1 +1,14 @@
+# .streamlit/config.toml
+[client]
+showErrorDetails = true
 
+[browser]
+gatherUsageStats = false
+
+[server]
+enableCORS = false
+enableXsrfProtection = false
+maxUploadSizeMb = 200
+
+[global]
+python_version = "3.10"
