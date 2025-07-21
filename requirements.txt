@@ -13,3 +13,5 @@ seaborn==0.13.0
 
 # Natural Language Processing
 nltk==3.8.1
+
+pip install --upgrade pip
