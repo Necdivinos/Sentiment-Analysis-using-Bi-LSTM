@@ -1,0 +1,23 @@
+# Core Streamlit and Data Processing
+streamlit==1.29.0
+pandas==2.1.4
+numpy==1.24.3
+
+# Machine Learning and Deep Learning
+tensorflow==2.15.0
+scikit-learn==1.3.2
+
+# Data Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Natural Language Processing
+nltk==3.8.1
+
+# Additional utilities (automatically installed with above packages)
+# keras (included with tensorflow)
+# scipy (dependency of scikit-learn)
+# pillow (dependency of matplotlib)
+# python-dateutil (dependency of pandas)
+# pytz (dependency of pandas)
+# six (dependency of various packages)
